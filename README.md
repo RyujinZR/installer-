@@ -12,7 +12,7 @@ https://cloudimages.ubuntu.com/releases/
 
 ### Custom Proot
 ``` 
-curl https://raw.githubusercontent.com/RyujinZR/installer/main/wget-proot.sh >> wget-proot.sh
+curl https://raw.githubusercontent.com/RyujinZR/installer-/main/wget-proot.sh >> wget-proot.sh
 bash wget-proot.sh
 ```
 
